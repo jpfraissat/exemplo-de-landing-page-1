@@ -1,0 +1,37 @@
+body{
+	background-color:#151515;
+}
+
+#main{
+	font-family: sans-serif, monospace;
+	font-size: 25px;
+	color: #D4D2D6;
+	
+	background-color: #8206D2;
+	height: 300px;
+	width: 600px;
+	
+	padding: 50px;
+	
+	border-radius: 20px 50px;
+
+	position: absolute;
+	left: 150px;
+	top: 90px;
+}
+
+#main input{
+	background-color: #9305C6;
+	
+	height: 30px;
+	width: 300px;
+	
+	border-style: none;
+	border-radius: 5px 10px;
+	
+	box-shadow: inset 0px 0px 10px #350347;
+}
+
+#main input:hover{
+	background-color: #8005AF;
+}
